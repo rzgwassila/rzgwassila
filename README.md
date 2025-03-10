@@ -4,7 +4,7 @@
 🚀 I love coding with React, Python, and exploring AI/ML.  
 
 ## 📊 My GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rzgwassila&show_icons=true&theme=radical)  
 
 ## 🔥 Streak Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rzgwassila&theme=radical)  
