@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm Wassila! 👋  
+🌱 I’m a full-stack developer and a master's student in bioinformatics.  
+🔭 I’m currently working on a Big Data project for analyzing genetic variants.  
+🚀 I love coding with React, Python, and exploring AI/ML.  
 
-<!--
-**rzgwassila/rzgwassila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 My GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
 
-Here are some ideas to get you started:
+## 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Most Used Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
