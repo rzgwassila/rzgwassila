@@ -1,5 +1,5 @@
 # Hello, I'm Wassila! 👋  
-🌱 I’m a full-stack developer and a master's student in bioinformatics.  
+🌱 I’m a web developer and a master's student in bioinformatics.  
 🔭 I’m currently working on a Big Data project for analyzing genetic variants.  
 🚀 I love coding with React, Python, and exploring AI/ML.  
 
