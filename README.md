@@ -4,16 +4,11 @@
 🚀 I love coding with React, Python, and exploring AI/ML.  
 
 ## 📊 GitHub Stats & Most Used Languages  
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rzgwassila&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzgwassila&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rzgwassila&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzgwassila&layout=compact&theme=radical" />
+</p>
+
 
 ## 🛠️ Technologies & Tools   
 <p align="center">
