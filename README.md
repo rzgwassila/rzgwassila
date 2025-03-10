@@ -7,7 +7,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rzgwassila&show_icons=true&theme=radical)  
 
 ## 🔥 Streak Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rzgwassila&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rzgwassila&layout=compact&theme=radical)
 
 
 ## 🎯 Most Used Languages  
